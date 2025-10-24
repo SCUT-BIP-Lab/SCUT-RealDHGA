@@ -37,23 +37,23 @@ Those interested in obtaining SCUT-RealDHGA should download [release agreement](
 
 
 ## Contact
-Zhang Yufeng
+Zhang Yufeng  
 Biometrics and Intelligence Perception Lab.  
 College of Automation Science and Engineering  
 South China University of Technology  
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641  
+Wushan RD., Tianhe District, Guangzhou, P.R.China,510641  
 auyfzhang@mail.scut.edu.cn
 
-Wang Xilai
+Wang Xilai  
 Biometrics and Intelligence Perception Lab.  
 College of Automation Science and Engineering  
 South China University of Technology  
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641  
+Wushan RD., Tianhe District, Guangzhou, P.R.China,510641  
 auwangxilai@mail.scut.edu.cn
 
 Prof. Kang Wenxiong  
 Biometrics and Intelligence Perception Lab.  
 College of Automation Science and Engineering  
 South China University of Technology  
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641  
+Wushan RD., Tianhe District, Guangzhou, P.R.China,510641  
 auwxkang@scut.edu.cn
