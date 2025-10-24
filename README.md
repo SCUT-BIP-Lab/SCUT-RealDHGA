@@ -10,7 +10,7 @@ SCUT-RealDHGA Database is collected at various practical scenarios, including do
 
 ## File Naming Convention
 Images are labeled as train/test_session_ID_gesture_sample (e.g., 1_1_0_0_0):  
-"train/test" indicates whether the video sample belongs to the training set or the testing set, 
+"train/test" indicates whether the video sample belongs to the training set or the testing set,  
 "session" stands for session number, which is "1" in this dataset,  
 "ID" stands for the client's ID,  
 "gesture" ranges from 0 to 9, standing for ten gesture types, 
