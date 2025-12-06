@@ -21,7 +21,7 @@ The naming convention of SCUT-RealDHGA is the same as the SCUT-DHGA database. Pl
 The SCUT-RealDHGA is publicly available (free of charge) to the research community (after the paper is published).  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use. 
 
-Those interested in obtaining SCUT-RealDHGA should download [release agreement](https://github.com/BIP-Lab/SCUT-RealDHGA/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
+Those interested in obtaining SCUT-RealDHGA should download [release agreement]([https://github.com/BIP-Lab/SCUT-RealDHGA/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf](https://github.com/SCUT-BIP-Lab/SCUT-RealDHGA/blob/main/SCUT-RealDHGA%20Database%20Release%20Agreement.pdf)), and send by email one signed and scanned copy to scutbip@outlook.com.
 
 <!-- While reporting results using the SCUT-RealDHGA, please cite the following article:  
 @ARTICLE{10654331,
