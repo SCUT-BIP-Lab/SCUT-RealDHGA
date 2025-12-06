@@ -4,7 +4,7 @@ SCUT-RealDHGA: A Real-world Database for Dynamic Hand Gesture Authentication
 ## Short Information
 SCUT-RealDHGA Database is used for scientific research of dynamic hand gesture authentication. It is collected by the BIP Lab, School of Automation Science and Engineering, South China University of Technology (SCUT). Any one or group is allowed to use this database free of charge.
 
-SCUT-RealDHGA Database is collected at various practical scenarios, including dormitories, classrooms, laboratories, and subway stations. It contains realistic and diverse backgrounds, illumination, and viewpoints; therefore, it is suitable for evaluating the robustness of the DHGA algorithm. This dataset contains 60 IDs right now, and is growing with time. For each identity, we collect 10 gesture types, including defined gesture and random gesture.
+SCUT-RealDHGA Database is collected at various practical scenarios, including dormitories, classrooms, laboratories, and subway stations. It contains realistic and diverse backgrounds, illumination, and viewpoints; therefore, it is suitable for evaluating the robustness of the DHGA algorithm. This dataset contains 60 IDs upon release, and is growing with time. For each identity, we collect 10 gesture types, including defined gesture and random gesture.
 
 ![SCUT-RealDHGA](https://github.com/SCUT-BIP-Lab/SCUT-RealDHGA/blob/main/images/realdhga.png)
 
