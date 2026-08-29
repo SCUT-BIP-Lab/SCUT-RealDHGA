@@ -23,6 +23,17 @@ Unfortunately, due to privacy reasons, we cannot provide the database for commer
 
 Those interested in obtaining SCUT-RealDHGA should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT-RealDHGA/blob/main/SCUT-RealDHGA%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
 
+While reporting results using the SCUT-RealDHGA, please cite the following articles:
+@article{TIFS2025,
+  title={Enhancing Perceptron Constancy for Real-World Dynamic Hand Gesture Authentication},
+  author={Zhang, Yufeng and Wang, Xilai and Song, Wenwei and Kang, Wenxiong},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={21},
+  pages={886--899},
+  year={2025},
+  publisher={IEEE}
+}
+
 <!-- While reporting results using the SCUT-RealDHGA, please cite the following article:  
 @ARTICLE{10654331,
   author={Zhang, Yufeng and Kang, Wenxiong and Song, Wenwei},
